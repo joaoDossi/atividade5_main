@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Atividade5</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="emailTextView">Email</string>
+    <string name="digite_o_seu_email">Digite o seu email</string>
+    <string name="senhaTextView">Senha</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="loginTextView">Login</string>
+    <string name="criarContaTextView">Criar Conta</string>
+    <string name="recuperarContaTextView">Recuperar Conta</string>
+    <string name="enviarTextView">Enviar</string>
+    <string name="textViewMensagem">Informe seu email de cadastro para receber \n um link para alteração de senha</string>
+</resources>
