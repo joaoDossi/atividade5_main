@@ -6,11 +6,12 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import com.joaopedrodossi.atividade5.R
+import com.joaopedrodossi.atividade5.databinding.FragmentRecoverAccountBinding
 import com.joaopedrodossi.atividade5.databinding.FragmentSplashBinding
 
 class RecoverAccountFragment : Fragment() {
 
-    private var _binding: FragmentSplashBinding? = null
+    private var _binding: FragmentRecoverAccountBinding? = null
     private val binding get() = _binding!!
 
     override fun onCreateView(
@@ -18,7 +19,7 @@ class RecoverAccountFragment : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View {
-        _binding = FragmentSplashBinding.inflate(inflater,container,false)
+        _binding = FragmentRecoverAccountBinding.inflate(inflater,container,false)
         return binding.root
     }
 

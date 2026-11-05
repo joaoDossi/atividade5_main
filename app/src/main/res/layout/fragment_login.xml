@@ -47,6 +47,7 @@
         <com.google.android.material.button.MaterialButton
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/buttonLogin"
             android:text="@string/loginTextView"
             android:textColor="@color/color_default"
             app:backgroundTint="@null"
