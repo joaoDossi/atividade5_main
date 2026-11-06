@@ -10,4 +10,6 @@
     <string name="recuperarContaTextView">Recuperar Conta</string>
     <string name="enviarTextView">Enviar</string>
     <string name="textViewMensagem">Informe seu email de cadastro para receber \n um link para alteração de senha</string>
+    <string name="tabsContent">Tabs</string>
+    <string name="logoutContent">Logout</string>
 </resources>
