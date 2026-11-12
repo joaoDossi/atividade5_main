@@ -9,5 +9,11 @@
         <item name="fontFamily">@font/determination</item>
     </style>
 
+    <style name="CustomTabLayout" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
     <style name="Theme.Atividade5" parent="Base.Theme.Atividade5" />
 </resources>

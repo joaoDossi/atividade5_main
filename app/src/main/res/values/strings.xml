@@ -12,4 +12,8 @@
     <string name="textViewMensagem">Informe seu email de cadastro para receber \n um link para alteração de senha</string>
     <string name="tabsContent">Tabs</string>
     <string name="logoutContent">Logout</string>
+
+    <string name="status_task_todo">A Fazer</string>
+    <string name="status_task_doing">Fazendo</string>
+    <string name="status_task_done">Feito</string>
 </resources>
